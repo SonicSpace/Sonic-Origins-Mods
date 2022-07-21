@@ -1,4 +1,4 @@
 add mod.ini
 add Readme.txt
-add raw/Sound/HITE_music.acb
-add raw/Sound/HITE_music.awb
+add raw/Sound/Music03_S3K.acb
+add raw/Sound/Music03_S3K.awb
