@@ -1,0 +1,32 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Sonic Origins Restored SEGA's Logo & Custom Background - Settings",
+         "Elements": [
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "Select Logo Version & Wallpaper Color:",
+               "Type": "Background Color & ADVS Logo",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": ".\\pak.SGL_US_BGW\\"
+            
+            }
+         ]
+      }
+   ],
+   "Enums": {
+      "Background Color & ADVS Logo": [
+         {
+            "DisplayName": "SEGA US Logo With Background White",
+            "Value": ".\\pak.SGL_US_BGW\\"
+         },
+         {
+            "DisplayName": "SEGA JP Logo With Background White)",
+            "Value": ".\\pak.SGL_JP_BGW\\"
+         }
+      ]
+   },
+   "IniFile": "mod.ini"
+}

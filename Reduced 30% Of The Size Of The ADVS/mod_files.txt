@@ -1,0 +1,4 @@
+add mod.ini
+add pak.SGL.json
+add pak.SGL_JP_BGW/raw/ui/ui_advertise.pac
+add pak.SGL_US_BGW/raw/ui/ui_advertise.pac
